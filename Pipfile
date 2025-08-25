@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 django = "*"
+djangorestframework = "*"
 python-decouple = "*"
 dj-database-url = "*"
 pillow = "*"
@@ -18,4 +19,5 @@ isort = "*"
 pre-commit = "*"
 
 [requires]
-python_version = "3.8"
+python_version = "3.12"
+python_full_version = "3.12.6"
