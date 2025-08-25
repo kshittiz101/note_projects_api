@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.DS_Store
+
+# Env / secrets
+.env
+venv/
+.pipenv/
+.idea/
+.vscode/
+
+# Django
+db.sqlite3
+staticfiles/
+media/
+
+# Pipenv
+Pipfile.lock
